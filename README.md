@@ -19,3 +19,4 @@ Classification Using Machine Learning
 ![](https://github.com/bachtiar09/PredictCustomerClickedAdsClassificationbyUsingMachineLearning/blob/main/Predict_Clicked_Ads_Customer_Classification_by_Using_Machine_Learning%20(1)/Slide17.PNG)
 ![](https://github.com/bachtiar09/PredictCustomerClickedAdsClassificationbyUsingMachineLearning/blob/main/Predict_Clicked_Ads_Customer_Classification_by_Using_Machine_Learning%20(1)/Slide18.PNG)
 ![](https://github.com/bachtiar09/PredictCustomerClickedAdsClassificationbyUsingMachineLearning/blob/main/Predict_Clicked_Ads_Customer_Classification_by_Using_Machine_Learning%20(1)/Slide19.PNG)
+![](https://github.com/bachtiar09/PredictCustomerClickedAdsClassificationbyUsingMachineLearning/blob/main/Predict_Clicked_Ads_Customer_Classification_by_Using_Machine_Learning%20(1)/Slide20.PNG)
